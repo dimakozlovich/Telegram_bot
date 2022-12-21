@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\PrayerRoom_teleBot\publish\PrayerRoom_teleBot.exe
+C:\Users\User\source\repos\PrayerRoom_teleBot\publish\PrayerRoom_teleBot.dll
+C:\Users\User\source\repos\PrayerRoom_teleBot\publish\PrayerRoom_teleBot.deps.json
+C:\Users\User\source\repos\PrayerRoom_teleBot\publish\PrayerRoom_teleBot.runtimeconfig.json
+C:\Users\User\source\repos\PrayerRoom_teleBot\publish\PrayerRoom_teleBot.pdb
+C:\Users\User\source\repos\PrayerRoom_teleBot\publish\Newtonsoft.Json.dll
+C:\Users\User\source\repos\PrayerRoom_teleBot\publish\Telegram.Bot.dll
+C:\Users\User\source\repos\PrayerRoom_teleBot\publish\TimePeriodsLibary.dll
+C:\Users\User\source\repos\PrayerRoom_teleBot\publish\TimePeriodsLibary.pdb

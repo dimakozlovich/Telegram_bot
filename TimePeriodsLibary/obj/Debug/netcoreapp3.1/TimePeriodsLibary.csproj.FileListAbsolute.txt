@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\PrayerRoom_teleBot\TimePeriodsLibary\bin\Debug\netcoreapp3.1\TimePeriodsLibary.deps.json
+C:\Users\User\source\repos\PrayerRoom_teleBot\TimePeriodsLibary\bin\Debug\netcoreapp3.1\TimePeriodsLibary.dll
+C:\Users\User\source\repos\PrayerRoom_teleBot\TimePeriodsLibary\bin\Debug\netcoreapp3.1\TimePeriodsLibary.pdb
+C:\Users\User\source\repos\PrayerRoom_teleBot\TimePeriodsLibary\obj\Debug\netcoreapp3.1\TimePeriodsLibary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PrayerRoom_teleBot\TimePeriodsLibary\obj\Debug\netcoreapp3.1\TimePeriodsLibary.AssemblyInfo.cs
+C:\Users\User\source\repos\PrayerRoom_teleBot\TimePeriodsLibary\obj\Debug\netcoreapp3.1\TimePeriodsLibary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PrayerRoom_teleBot\TimePeriodsLibary\obj\Debug\netcoreapp3.1\TimePeriodsLibary.dll
+C:\Users\User\source\repos\PrayerRoom_teleBot\TimePeriodsLibary\obj\Debug\netcoreapp3.1\TimePeriodsLibary.pdb
+C:\Users\User\source\repos\PrayerRoom_teleBot\TimePeriodsLibary\obj\Debug\netcoreapp3.1\TimePeriodsLibary.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PrayerRoom_teleBot\TimePeriodsLibary\obj\Debug\netcoreapp3.1\TimePeriodsLibary.GeneratedMSBuildEditorConfig.editorconfig

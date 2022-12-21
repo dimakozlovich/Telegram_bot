@@ -1,0 +1,3 @@
+C:\Users\User\source\repos\PrayerRoom_teleBot\publish\TimePeriodsLibary.dll
+C:\Users\User\source\repos\PrayerRoom_teleBot\publish\TimePeriodsLibary.deps.json
+C:\Users\User\source\repos\PrayerRoom_teleBot\publish\TimePeriodsLibary.pdb
